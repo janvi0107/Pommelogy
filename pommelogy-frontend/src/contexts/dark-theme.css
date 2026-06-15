@@ -1,0 +1,33 @@
+body.dark .header {
+  background-color: #000000; /* Dark background color */
+  color: #ffffff; /* Light text color */
+}
+
+body.dark .header-nav a,
+body.dark .logo-container a {
+  color: #ffffff; /* Links color in the header */
+}
+
+body.dark .header-nav a.active {
+  border-bottom: 2px solid #ffffff; /* Active link indication */
+}
+
+body.dark .theme-toggle-btn {
+  color: #ffffff; /* Toggle button color */
+}
+
+body.dark { 
+  background-color: #000000; /* Dark background color */
+  color: #ffffff; /* Default text color */
+}
+.slider {
+  background-color: #333333;
+}
+
+.card-body {
+  background-color: rgb(39,39,39);
+
+}
+
+
+

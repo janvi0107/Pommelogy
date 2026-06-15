@@ -1,0 +1,50 @@
+.apple-detail {
+  position: relative;
+  padding: 20px;
+  border-radius: 8px;
+  margin: 0px auto;
+}
+
+.apple-detail-image-container {
+  display: flex;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+/*
+.apple-detail-image {
+  width: auto;
+  height: 250px;
+}
+*/
+
+.apple-detail-name {
+  text-align: center;
+  margin-top: 0.5rem;
+  font-size: 28px;
+}
+
+.apple-detail-info {
+  margin-top: 20px;
+}
+
+.apple-detail-section {
+  margin-bottom: 20px;
+}
+
+.apple-detail-section h3 {
+  margin-bottom: 10px;
+  font-size: 24px;
+}
+
+.modal-body {
+  padding: 0;
+}
+
+.modal-header {
+  border-bottom: none;
+}
+
+.modal-title {
+  color: white;
+}

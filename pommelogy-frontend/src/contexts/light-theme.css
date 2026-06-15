@@ -1,0 +1,18 @@
+body.light .header {
+  background-color: #ffffff; /* Light background color */
+  color: #000000; /* Dark text color */
+}
+
+body.light .header-nav a,
+body.light .logo-container a {
+  color: #000000; /* Links color in the header */
+}
+
+body.light .header-nav a.active {
+  border-bottom: 2px solid #000000; /* Active link indication */
+}
+
+body.light .theme-toggle-btn {
+  color: #000000; /* Toggle button color */
+}
+
